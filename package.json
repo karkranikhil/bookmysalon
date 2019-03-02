@@ -1,0 +1,42 @@
+{
+  "name": "bookmysalon",
+  "version": "1.0.0",
+  "description": "place to search and book your salon",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karkranikhil/bookmysalon.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "express",
+    "node",
+    "mongodb",
+    "passport"
+  ],
+  "author": "Nikhil Karkra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karkranikhil/bookmysalon/issues"
+  },
+  "homepage": "https://github.com/karkranikhil/bookmysalon#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.1.0",
+    "express": "^4.16.4",
+    "is-empty": "^1.2.0",
+    "jsonwebtoken": "^8.5.0",
+    "mongoose": "^5.4.16",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
