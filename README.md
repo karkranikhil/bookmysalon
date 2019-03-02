@@ -1,8 +1,7 @@
-## setup commands
+## commands for development mode
 
-    npm i bcryptjs body-parser concurrently express is-empty jsonwebtoken mongoose passport passport-jwt validator --save
-
-    npm i -D nodemon
+    npm run dev
+    
 
 ## A brief description of each package in server
 
