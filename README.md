@@ -1,7 +1,3 @@
-## commands for development mode
-
-    npm run dev
-    
 
 ## A brief description of each package in server
 
